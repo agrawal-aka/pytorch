@@ -134,3 +134,6 @@
 [submodule "third_party/x86-simd-sort"]
 	path = third_party/x86-simd-sort
 	url = https://github.com/intel/x86-simd-sort.git
+[submodule "third_party/openrng"]
+	path = third_party/openrng
+	url = https://git.gitlab.arm.com/libraries/openrng.git
